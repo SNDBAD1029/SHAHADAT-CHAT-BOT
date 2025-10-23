@@ -1,5 +1,5 @@
 module.exports.config = {
- name: "war",
+ name: "حفل عليه",
  version: "1.0.0",
  hasPermssion: 2,
  credits: "Shahadat SAHU",
