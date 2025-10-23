@@ -15,20 +15,20 @@ module.exports.config = {
 };
 
 const songLinks = [
- "https://drive.google.com/uc?export=download&id=1X_J00k_go_u3MKqKwvZOcypQ-dL6DMAm",
- "https://drive.google.com/uc?export=download&id=1nLq8wKxcxK6nb-8SmJ1nPxNHx9Fzabr8",
- "https://drive.google.com/uc?export=download&id=1w972wKW72haSYHhcIZ_CIpRRv0UAf5TS",
- "https://drive.google.com/uc?export=download&id=1KLAtG03-O7GObVSo7YhkUd84tSTXQOL7",
- "https://drive.google.com/uc?export=download&id=1a3qcxjTi6W6wL4vItVY-SZ7aRpJISpLC",
- "https://drive.google.com/uc?export=download&id=1R2thfTrK3Xk842axn1mPrJ8AdPh8xpLf",
- "https://drive.google.com/uc?export=download&id=1nde8BkUjfD7F5fAM6WvAj6usHGjra4Ln",
- "https://drive.google.com/uc?export=download&id=1JVrIeRhhLUg-qOkRzvZCtI-CGrdfrHvq",
- "https://drive.google.com/uc?export=download&id=1uObNiYcCBbpTNZejRYavBKZGlclD2k3v",
- "https://drive.google.com/uc?export=download&id=1FN1kr3jma9i8opILdeMpH67lHjeJ3NIT",
- "https://drive.google.com/uc?export=download&id=1V2wYr_sGIBckvVrwGmpQXoZ_bj1jR6DY",
- "https://drive.google.com/uc?export=download&id=1FsQbt14Jw7gpvaabkBSgJDCefMLU8Pxq",
- "https://drive.google.com/uc?export=download&id=1ylJsOdaJ53GDITZ6_X-ET5PdnFAW93g1",
- "https://drive.google.com/uc?export=download&id=1Gj7ls2QwDmM-3nN7AXUxPPcGV8hdm59w"
+ "https://drive.google.com/uc?export=download&id=1AgP2rWOS_TlPHF42ZbOc2rcuT85JfFFl",
+ "https://drive.google.com/uc?export=download&id=1gYPLJ3vtpmM3DCfjICnIVHXfPcRu-Zgm",
+ "https://drive.google.com/uc?export=download&id=1eaVdDZh5rhD5C995IDnNIsSjQFid_Gze",
+ "https://drive.google.com/uc?export=download&id=1kBi0fdOhyLHNgjePB-Ktb7bze6H2ktJD",
+ "https://drive.google.com/uc?export=download&id=1Zh8cvkjuTaQ7RoyB4_uDAeoxY045lM2U",
+ "https://drive.google.com/uc?export=download&id=1r6bxkjQu8WzZd8pa01bStkJJJM5a_Q2n",
+ "https://drive.google.com/uc?export=download&id=1xZd8oUSbhQMCWQ3xkuZ-HH-xcoun7Z9h",
+ "https://drive.google.com/uc?export=download&id=1e4qrIOQQpCWs_nilCo35Ojs_MTX3Pemj",
+ "https://drive.google.com/uc?export=download&id=1VoQOH-J74gHb3bE3IOcsfNLlLb7dQ2B4",
+ "https://drive.google.com/uc?export=download&id=1n_umxerUpAAUB9QaX8uK8KKcvztX24bP",
+ "https://drive.google.com/uc?export=download&id=1J6VHjIMAwubXF-7MDlpTtVtVILyKedW5",
+ "https://drive.google.com/uc?export=download&id=1CA7ilFr_WGJwyvobrq4NXXcu6eivQi3U",
+ "https://drive.google.com/uc?export=download&id=1aRpoXu1QxfNdoQckLpr_6uO-RHS1KZNr",
+ "https://drive.google.com/uc?export=download&id=1sFc5YfoufZvB0UGySj23B-w25J9o84b4"
 ];
 
 module.exports.run = async function ({ api, event, args }) {
